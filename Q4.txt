@@ -1,0 +1,30 @@
+1. ChromeDriver: 
+    Used to interact with the Google Chrome browser.
+
+2. GeckoDriver (FirefoxDriver): 
+    Used to interact with Mozilla Firefox.
+
+3. SafariDriver:   
+    Used to interact with Safari on macOS and iOS.
+
+4. Microsoft WebDriver (EdgeDriver): 
+    Used to interact with Microsoft Edge.
+
+5. OperaChromiumDriver: 
+    Used to interact with Opera based on the Chromium engine.
+
+6. InternetExplorerDriver: 
+    Used to interact with Internet Explorer (note: deprecated and not recommended for modern web applications).
+
+7. HtmlUnitDriver: 
+    A headless browser driver that does not require any specific browser installation. It is useful for fast and lightweight testing but may have limited support for certain JavaScript features.
+
+8.  EventFiringWebDriver:
+    For firing the WebDriver listener events
+
+9. RemoteWebDriver:
+    Used with Selenium Grid for executing automation scripts on different remote machines.
+
+10. IOS driver:
+
+11. Android driver:
